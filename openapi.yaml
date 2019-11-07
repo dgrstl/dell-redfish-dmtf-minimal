@@ -19,7 +19,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: http://redfish.dmtf.org/schemas/v1/Chassis.yaml#/components/schemas/Chassis
+                $ref: https://redfish.dmtf.org/schemas/v1/Chassis.yaml#/components/schemas/Chassis
           description: The response contains a representation of the Chassis resource
 components:
   schemas: {}
